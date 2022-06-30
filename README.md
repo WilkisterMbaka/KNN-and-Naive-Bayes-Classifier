@@ -21,4 +21,5 @@ Project was created with:
 * Sklearn
 
 ## **Dataset**
-* Hypothyroid Dataset [Link](http://bit.ly/hypothyroid_data)
+* Titanic Dataset [Link](https://archive.org/download/train5_202002/train%20%285%29.csv)
+* Spambase dataset [Link](https://archive.ics.uci.edu/ml/datasets/Spambase)
